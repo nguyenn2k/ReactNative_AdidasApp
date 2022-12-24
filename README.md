@@ -9,6 +9,7 @@ Add to Card:
 ![Screenshot_20221224_055648](https://user-images.githubusercontent.com/96371866/209433097-1844291b-ddc0-4080-9e83-72c98e24ca91.png)
 
 Library Needed:
+
 "@react-native-community/blur": "^4.3.0",
 
 "@react-native-community/masked-view": "^0.1.11",
